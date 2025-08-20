@@ -1,0 +1,72 @@
+# Animal Crossing e+ UI Translation - START HERE
+# These are the most important UI elements we found in the game
+
+## Essential UI Elements Found:
+
+### 1. House/Home Related
+家 | House | 
+ﾝ詔家普 | House Info | (Contains 家 - likely "House Information")
+｣ﾝ家 | My House | (Contains 家 - likely "My House" or "House Status")
+ﾛﾗ家 | House Status | (Contains 家 - likely "House Status" or "House Info")
+家ﾊﾌﾝ悖 | House Settings | (Contains 家 - likely "House Settings" or "House Options")
+
+### 2. Time Related  
+年 | Year |
+分 | Minute |
+分ｶ推 | Minutes | (Contains 分 - likely "Minutes" or time-related)
+ﾍ分ｴｲ | Time Display | (Contains 分 - likely "Time Display" or similar)
+ｪ･分 | Time | (Contains 分 - likely "Time" or similar)
+分劔飭ﾁ | Time Info | (Contains 分 - likely "Time Information" or similar)
+ｪ･分挨 | Time Status | (Contains 分 - likely "Time Status" or similar)
+分ﾟﾖ | Time | (Contains 分 - likely "Time" or similar)
+爼分別 | Time Settings | (Contains 分 - likely "Time Settings" or similar)
+分ｶﾔ鴾 | Time Display | (Contains 分 - likely "Time Display" or similar)
+物ｩ分ｩ | Time Info | (Contains 分 - likely "Time Information" or similar)
+ﾗｮ分 | Time | (Contains 分 - likely "Time" or similar)
+
+### 3. Shop/Store Related
+店 | Shop |
+呈 | Display/Show |
+代 | Price/Cost |
+坪 | Tsubo | (unit of area)
+
+### 4. Animal Crossing Specific UI Found:
+# We found these important AC-specific patterns:
+
+#### Time/Date Related:
+時 | Time | (Found in multiple UI elements)
+月 | Month | (Found in date/time related UI)
+服 | Clothing | (Found in clothing/fashion related UI)
+
+#### Location Related:
+村 | Village | (Found in multiple village-related UI elements)
+木 | Tree | (Found in nature/environment UI)
+
+#### Village Related Patterns:
+村ﾂﾍ | Village Info | (Contains 村 - likely "Village Information")
+ﾍ村ｽﾔ | Village Status | (Contains 村 - likely "Village Status")
+村嵜ﾜｷ | Village Settings | (Contains 村 - likely "Village Settings")
+村ｺ逗 | Village Map | (Contains 村 - likely "Village Map" or "Village View")
+
+### 5. Common UI Patterns Found:
+# We found many text entries containing these patterns:
+# - 分 (minute) - appears frequently in time-related UI
+# - 家 (house) - appears in home/building related UI  
+# - 店 (shop) - appears in store/shop related UI
+# - 年 (year) - appears in date/time related UI
+# - 村 (village) - appears in village/location related UI
+# - 服 (clothing) - appears in fashion/clothing related UI
+
+## Translation Guidelines:
+# - Use official Animal Crossing English terms when possible
+# - Keep translations concise and clear
+# - Maintain the friendly, casual tone of Animal Crossing
+# - Test translations in context when possible
+
+## Next Steps:
+# 1. Start with the simple, clear words (家, 年, 分, 店, 村, 服)
+# 2. Work on the longer phrases that contain these words
+# 3. Look for more UI patterns in the extracted text
+# 4. Move on to dialogue and item translations
+
+# Add your translations in the format: Japanese | English | Notes

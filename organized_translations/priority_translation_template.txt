@@ -1,0 +1,69 @@
+# Animal Crossing e+ Priority Translation Template
+# Focus on these categories in order of importance
+
+## 1. UI Text (HIGH PRIORITY)
+# These appear constantly and are essential for gameplay
+# Start with these common UI elements:
+
+メニュー | Menu |
+設定 | Settings |
+開始 | Start |
+終了 | End |
+はい | Yes |
+いいえ | No |
+保存 | Save |
+読み込み | Load |
+戻る | Back |
+進む | Next |
+選択 | Select |
+決定 | OK |
+
+## 2. Dialogue (HIGH PRIORITY)
+# Character conversations and greetings
+# Core to the Animal Crossing experience
+
+こんにちは | Hello |
+さようなら | Goodbye |
+ありがとう | Thank you |
+おはよう | Good morning |
+おやすみ | Good night |
+すみません | Excuse me |
+どういたしまして | You're welcome |
+
+## 3. Items (MEDIUM PRIORITY)
+# Item names, tools, furniture
+# Important for inventory management
+
+リンゴ | Apple |
+オレンジ | Orange |
+魚 | Fish |
+虫 | Bug |
+花 | Flower |
+木 | Tree |
+家具 | Furniture |
+服 | Clothing |
+道具 | Tool |
+種 | Seed |
+
+## 4. Locations (MEDIUM PRIORITY)
+# Place names, areas, buildings
+# Important for navigation
+
+森 | Forest |
+海 | Ocean |
+川 | River |
+山 | Mountain |
+村 | Village |
+町 | Town |
+店 | Shop |
+家 | House |
+橋 | Bridge |
+道 | Road |
+
+## Translation Guidelines:
+# - Keep Animal Crossing's friendly, casual tone
+# - Maintain similar text length when possible
+# - Use consistent terminology
+# - Test in context when possible
+
+# Add your translations in the format: Japanese | English | Notes

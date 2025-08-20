@@ -1,0 +1,96 @@
+# Animal Crossing e+ Dialogue Translation - START HERE
+# These are the dialogue and character interaction texts we found in the game
+
+## Dialogue Categories Found:
+
+### 1. Greetings and Basic Dialogue
+こんにちは | Hello | (Standard greeting)
+さようなら | Goodbye | (Standard farewell)
+ありがとう | Thank you | (Expression of gratitude)
+おはよう | Good morning | (Morning greeting)
+おやすみ | Good night | (Evening farewell)
+すみません | Excuse me | (Apology/polite request)
+どういたしまして | You're welcome | (Response to thank you)
+お疲れ様 | Good work | (Acknowledgment of effort)
+お元気ですか | How are you? | (Health inquiry)
+はじめまして | Nice to meet you | (First meeting)
+よろしく | Please treat me well | (Polite request)
+またね | See you later | (Casual farewell)
+バイバイ | Bye bye | (Casual farewell)
+
+### 2. Character Interactions
+話す | Talk | (To speak/converse)
+聞く | Listen | (To listen/hear)
+教える | Teach | (To teach/inform)
+質問 | Question | (A question)
+答え | Answer | (An answer)
+説明 | Explanation | (An explanation)
+紹介 | Introduction | (An introduction)
+挨拶 | Greeting | (A greeting)
+会話 | Conversation | (A conversation)
+相談 | Consultation | (To consult/discuss)
+約束 | Promise | (A promise)
+約束する | To promise | (To make a promise)
+待つ | Wait | (To wait)
+待って | Wait | (Command form)
+
+### 3. Emotions and Reactions
+嬉しい | Happy | (Feeling happy)
+悲しい | Sad | (Feeling sad)
+怒る | Angry | (To get angry)
+驚く | Surprised | (To be surprised)
+困る | Troubled | (To be troubled/worried)
+心配 | Worry | (Worry/concern)
+安心 | Relief | (Relief/peace of mind)
+楽しい | Fun | (Fun/enjoyable)
+面白い | Interesting | (Interesting/funny)
+大変 | Difficult | (Difficult/tough)
+大丈夫 | Okay | (It's okay/alright)
+頑張る | Do your best | (To do your best)
+応援 | Support | (Support/cheering)
+
+### 4. Common Phrases
+そうですね | That's right | (Agreement)
+そうですか | Is that so? | (Question of confirmation)
+本当ですか | Really? | (Is it true?)
+本当に | Really | (Truly/really)
+確かに | Certainly | (Certainly/indeed)
+もちろん | Of course | (Of course)
+もちろんです | Of course | (Polite form)
+いえいえ | No no | (No, not at all)
+いえ | No | (No)
+はい | Yes | (Yes)
+分かりました | I understand | (I understand)
+分かります | I understand | (I can understand)
+分からない | I don't understand | (I don't understand)
+知らない | I don't know | (I don't know)
+
+### 5. Game-Specific Dialogue
+村長 | Mayor | (Village mayor)
+住民 | Resident | (Village resident)
+友達 | Friend | (Friend)
+隣人 | Neighbor | (Neighbor)
+店員 | Clerk | (Shop clerk)
+郵便配達 | Mail carrier | (Mail carrier)
+博物館 | Museum | (Museum)
+役場 | Town hall | (Town hall)
+郵便局 | Post office | (Post office)
+店 | Shop | (Shop)
+家 | House | (House)
+村 | Village | (Village)
+町 | Town | (Town)
+
+## Translation Guidelines:
+# - Use official Animal Crossing English terms when possible
+# - Keep translations natural and friendly
+# - Maintain the warm, casual tone of Animal Crossing
+# - Consider context and character personality
+# - Test translations in actual game dialogue
+
+## Next Steps:
+# 1. Start with basic greetings (こんにちは, さようなら, ありがとう)
+# 2. Work on character interactions (話す, 聞く, 教える)
+# 3. Translate emotions and reactions
+# 4. Move on to common phrases and game-specific terms
+
+# Add your translations in the format: Japanese | English | Notes

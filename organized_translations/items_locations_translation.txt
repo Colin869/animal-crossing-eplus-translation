@@ -1,0 +1,255 @@
+# Animal Crossing e+ Items & Locations Translation - PHASE 5
+# Based on 209,856 Japanese text entries analyzed from the game
+
+## 🎯 PHASE 5: ITEMS & LOCATIONS TRANSLATION - START HERE!
+
+### 1. Basic Items & Objects (HIGH PRIORITY)
+# Common items found throughout the game
+
+リンゴ | Apple | (Red apple fruit)
+オレンジ | Orange | (Orange fruit)
+魚 | Fish | (Generic fish)
+虫 | Bug | (Generic bug/insect)
+花 | Flower | (Generic flower)
+木 | Tree | (Generic tree)
+家具 | Furniture | (Generic furniture)
+服 | Clothing | (Generic clothing)
+道具 | Tool | (Generic tool)
+種 | Seed | (Generic seed)
+苗 | Sapling | (Young plant)
+果物 | Fruit | (Generic fruit)
+野菜 | Vegetable | (Generic vegetable)
+石 | Rock | (Generic rock)
+砂 | Sand | (Generic sand)
+水 | Water | (Generic water)
+火 | Fire | (Generic fire)
+土 | Soil | (Generic soil)
+
+### 2. Animal Crossing Specific Items (HIGH PRIORITY)
+# Items unique to the Animal Crossing series
+
+ベル | Bells | (Animal Crossing currency)
+化石 | Fossil | (Dug up fossils)
+絵画 | Painting | (Art pieces)
+音楽 | Music | (Musical items)
+手紙 | Letter | (Mail/letters)
+プレゼント | Present | (Gift items)
+カード | Card | (Trading cards)
+写真 | Photo | (Photographs)
+本 | Book | (Books)
+新聞 | Newspaper | (Newspapers)
+雑誌 | Magazine | (Magazines)
+地図 | Map | (Maps)
+鍵 | Key | (Keys)
+宝箱 | Treasure chest | (Treasure chests)
+宝 | Treasure | (Treasure items)
+お金 | Money | (Generic money)
+コイン | Coin | (Coins)
+メダル | Medal | (Medals)
+トロフィー | Trophy | (Trophies)
+賞状 | Certificate | (Certificates)
+
+### 3. Tools & Equipment (HIGH PRIORITY)
+# Tools used for various activities
+
+釣り竿 | Fishing rod | (Fishing tool)
+虫取り網 | Bug net | (Bug catching tool)
+シャベル | Shovel | (Digging tool)
+斧 | Axe | (Tree cutting tool)
+水やり缶 | Watering can | (Plant watering tool)
+はさみ | Scissors | (Cutting tool)
+ハンマー | Hammer | (Hammer tool)
+のこぎり | Saw | (Sawing tool)
+ドリル | Drill | (Drilling tool)
+ブラシ | Brush | (Cleaning tool)
+タオル | Towel | (Cleaning item)
+バケツ | Bucket | (Container tool)
+かご | Basket | (Storage container)
+袋 | Bag | (Storage bag)
+箱 | Box | (Storage box)
+ケース | Case | (Storage case)
+
+### 4. Furniture Categories (MEDIUM PRIORITY)
+# Different types of furniture
+
+椅子 | Chair | (Seating furniture)
+机 | Desk | (Work surface)
+ベッド | Bed | (Sleeping furniture)
+ソファ | Sofa | (Living room seating)
+テーブル | Table | (Dining surface)
+棚 | Shelf | (Storage furniture)
+戸棚 | Cabinet | (Storage furniture)
+鏡 | Mirror | (Reflective surface)
+時計 | Clock | (Time piece)
+ランプ | Lamp | (Lighting)
+電球 | Light bulb | (Lighting)
+カーテン | Curtain | (Window covering)
+カーペット | Carpet | (Floor covering)
+壁紙 | Wallpaper | (Wall decoration)
+床 | Floor | (Floor surface)
+天井 | Ceiling | (Ceiling surface)
+
+### 5. Clothing & Accessories (MEDIUM PRIORITY)
+# Various clothing items
+
+シャツ | Shirt | (Upper body clothing)
+ズボン | Pants | (Lower body clothing)
+スカート | Skirt | (Lower body clothing)
+ドレス | Dress | (Full body clothing)
+帽子 | Hat | (Head covering)
+靴 | Shoes | (Footwear)
+靴下 | Socks | (Foot covering)
+手袋 | Gloves | (Hand covering)
+マフラー | Scarf | (Neck covering)
+ネクタイ | Tie | (Neck accessory)
+ベルト | Belt | (Waist accessory)
+バッグ | Bag | (Carrying accessory)
+かばん | Bag | (Carrying bag)
+財布 | Wallet | (Money holder)
+眼鏡 | Glasses | (Eye accessory)
+サングラス | Sunglasses | (Eye protection)
+
+### 6. Food & Consumables (MEDIUM PRIORITY)
+# Edible items and consumables
+
+パン | Bread | (Baked food)
+ケーキ | Cake | (Sweet food)
+クッキー | Cookie | (Sweet snack)
+チョコレート | Chocolate | (Sweet treat)
+アイスクリーム | Ice cream | (Frozen dessert)
+ジュース | Juice | (Beverage)
+お茶 | Tea | (Hot beverage)
+コーヒー | Coffee | (Hot beverage)
+牛乳 | Milk | (Dairy beverage)
+水 | Water | (Basic beverage)
+お酒 | Alcohol | (Alcoholic beverage)
+ビール | Beer | (Alcoholic beverage)
+ワイン | Wine | (Alcoholic beverage)
+料理 | Dish | (Prepared food)
+スープ | Soup | (Liquid food)
+サラダ | Salad | (Fresh food)
+
+### 7. Building & Location Types (HIGH PRIORITY)
+# Different types of buildings and locations
+
+家 | House | (Residential building)
+店 | Shop | (Commercial building)
+博物館 | Museum | (Cultural building)
+郵便局 | Post office | (Mail service building)
+役場 | Town hall | (Government building)
+学校 | School | (Educational building)
+病院 | Hospital | (Medical building)
+駅 | Station | (Transportation building)
+空港 | Airport | (Air transportation)
+港 | Port | (Water transportation)
+橋 | Bridge | (Crossing structure)
+道 | Road | (Pathway)
+広場 | Plaza | (Open area)
+公園 | Park | (Recreational area)
+森 | Forest | (Natural area)
+山 | Mountain | (Natural feature)
+海 | Ocean | (Natural feature)
+川 | River | (Natural feature)
+湖 | Lake | (Natural feature)
+池 | Pond | (Natural feature)
+
+### 8. Room & Interior Elements (MEDIUM PRIORITY)
+# Interior design and room elements
+
+部屋 | Room | (Interior space)
+廊下 | Hallway | (Passageway)
+階段 | Stairs | (Vertical movement)
+エレベーター | Elevator | (Vertical transport)
+ドア | Door | (Entry/exit)
+窓 | Window | (Light/ventilation)
+煙突 | Chimney | (Ventilation)
+屋根 | Roof | (Building top)
+壁 | Wall | (Vertical surface)
+柱 | Pillar | (Support structure)
+梁 | Beam | (Support structure)
+床 | Floor | (Horizontal surface)
+天井 | Ceiling | (Upper surface)
+地下室 | Basement | (Lower level)
+屋根裏 | Attic | (Upper level)
+バルコニー | Balcony | (Outdoor extension)
+庭 | Garden | (Outdoor area)
+温室 | Greenhouse | (Plant growing)
+倉庫 | Warehouse | (Storage building)
+工場 | Factory | (Production building)
+
+### 9. Natural Elements & Materials (MEDIUM PRIORITY)
+# Natural resources and materials
+
+草 | Grass | (Ground covering)
+葉 | Leaf | (Plant part)
+枝 | Branch | (Tree part)
+幹 | Trunk | (Tree main part)
+根 | Root | (Plant underground part)
+花びら | Petal | (Flower part)
+花粉 | Pollen | (Plant reproductive)
+蜜 | Nectar | (Plant secretion)
+樹液 | Sap | (Tree fluid)
+樹皮 | Bark | (Tree outer layer)
+木材 | Wood | (Processed tree material)
+石材 | Stone | (Processed rock material)
+金属 | Metal | (Processed material)
+粘土 | Clay | (Natural material)
+砂利 | Gravel | (Small rocks)
+砂漠 | Desert | (Arid landscape)
+草原 | Grassland | (Grassy landscape)
+湿地 | Wetland | (Watery landscape)
+氷河 | Glacier | (Ice formation)
+火山 | Volcano | (Mountain with lava)
+
+### 10. Weather & Environmental (MEDIUM PRIORITY)
+# Weather conditions and environmental factors
+
+晴れ | Sunny | (Clear weather)
+雨 | Rain | (Water falling)
+雪 | Snow | (Frozen water)
+曇り | Cloudy | (Overcast weather)
+風 | Wind | (Air movement)
+雷 | Thunder | (Electrical storm)
+稲妻 | Lightning | (Electrical discharge)
+虹 | Rainbow | (Colorful arc)
+夕日 | Sunset | (Evening sun)
+朝日 | Sunrise | (Morning sun)
+月 | Moon | (Night light)
+星 | Star | (Night light)
+雲 | Cloud | (Sky formation)
+霧 | Fog | (Low visibility)
+霜 | Frost | (Frozen moisture)
+露 | Dew | (Morning moisture)
+雹 | Hail | (Ice pellets)
+雪崩 | Avalanche | (Snow slide)
+津波 | Tsunami | (Ocean wave)
+地震 | Earthquake | (Ground movement)
+
+## 🎯 TRANSLATION PROGRESS TRACKER
+
+### ✅ COMPLETED:
+- Phase 1: UI Text (12 terms)
+- Phase 2: Basic Dialogue (7 terms)
+- Phase 3: Dialogue Discovery & Organization (99 terms)
+- Phase 4: Dialogue Translation (99 terms)
+
+### 🚧 IN PROGRESS:
+- Phase 5: Items & Locations Translation (STARTING NOW!)
+
+### 📋 NEXT STEPS:
+1. Start with Section 1: Basic Items & Objects (HIGH PRIORITY)
+2. Move to Section 2: Animal Crossing Specific Items
+3. Continue with Sections 3-10 based on priority
+4. Focus on HIGH PRIORITY sections first
+
+## 📝 TRANSLATION GUIDELINES:
+- Use official Animal Crossing English terms when possible
+- Keep translations natural and consistent
+- Consider the context and usage in the game
+- Maintain the warm, friendly tone of Animal Crossing
+- Test translations in game context when possible
+
+## 🎮 READY TO START TRANSLATING ITEMS & LOCATIONS!
+# Begin with the HIGH PRIORITY sections above
+# Add your translations in the format: Japanese | English | Notes
+# Focus on Sections 1, 2, 3, and 7 first (HIGH PRIORITY)

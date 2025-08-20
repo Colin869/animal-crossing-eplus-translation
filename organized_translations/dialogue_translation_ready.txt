@@ -1,0 +1,157 @@
+# Animal Crossing e+ Dialogue Translation - READY TO TRANSLATE
+# Based on 346 dialogue entries + 473 AC-specific patterns found in the game
+
+## 🎯 PHASE 3: DIALOGUE TRANSLATION - START HERE!
+
+### 1. Basic Greetings & Common Phrases (HIGH PRIORITY)
+# These appear constantly in character interactions
+
+こんにちは | Hello | (Standard greeting)
+さようなら | Goodbye | (Standard farewell)
+ありがとう | Thank you | (Expression of gratitude)
+おはよう | Good morning | (Morning greeting)
+おやすみ | Good night | (Evening farewell)
+すみません | Excuse me | (Apology/polite request)
+どういたしまして | You're welcome | (Response to thank you)
+お疲れ様 | Good work | (Acknowledgment of effort)
+お元気ですか | How are you? | (Health inquiry)
+はじめまして | Nice to meet you | (First meeting)
+よろしく | Please treat me well | (Polite request)
+またね | See you later | (Casual farewell)
+バイバイ | Bye bye | (Casual farewell)
+
+### 2. Character Interaction Verbs (HIGH PRIORITY)
+# Core dialogue mechanics
+
+話す | Talk | (To speak/converse)
+聞く | Listen | (To listen/hear)
+教える | Teach | (To teach/inform)
+質問 | Question | (A question)
+答え | Answer | (An answer)
+説明 | Explanation | (An explanation)
+紹介 | Introduction | (An introduction)
+挨拶 | Greeting | (A greeting)
+会話 | Conversation | (A conversation)
+相談 | Consultation | (To consult/discuss)
+約束 | Promise | (A promise)
+約束する | To promise | (To make a promise)
+待つ | Wait | (To wait)
+待って | Wait | (Command form)
+
+### 3. Emotions & Reactions (MEDIUM PRIORITY)
+# Character personality and mood
+
+嬉しい | Happy | (Feeling happy)
+悲しい | Sad | (Feeling sad)
+怒る | Angry | (To get angry)
+驚く | Surprised | (To be surprised)
+困る | Troubled | (To be troubled/worried)
+心配 | Worry | (Worry/concern)
+安心 | Relief | (Relief/peace of mind)
+楽しい | Fun | (Fun/enjoyable)
+面白い | Interesting | (Interesting/funny)
+大変 | Difficult | (Difficult/tough)
+大丈夫 | Okay | (It's okay/alright)
+頑張る | Do your best | (To do your best)
+応援 | Support | (Support/cheering)
+
+### 4. Common Response Phrases (MEDIUM PRIORITY)
+# Natural conversation flow
+
+そうですね | That's right | (Agreement)
+そうですか | Is that so? | (Question of confirmation)
+本当ですか | Really? | (Is it true?)
+本当に | Really | (Truly/really)
+確かに | Certainly | (Certainly/indeed)
+もちろん | Of course | (Of course)
+もちろんです | Of course | (Polite form)
+いえいえ | No no | (No, not at all)
+いえ | No | (No)
+はい | Yes | (Yes)
+分かりました | I understand | (I understand)
+分かります | I understand | (I can understand)
+分からない | I don't understand | (I don't understand)
+知らない | I don't know | (I don't know)
+
+### 5. Animal Crossing Specific Terms (HIGH PRIORITY)
+# Game-specific dialogue and locations
+
+村長 | Mayor | (Village mayor)
+住民 | Resident | (Village resident)
+友達 | Friend | (Friend)
+隣人 | Neighbor | (Neighbor)
+店員 | Clerk | (Shop clerk)
+郵便配達 | Mail carrier | (Mail carrier)
+博物館 | Museum | (Museum)
+役場 | Town hall | (Town hall)
+郵便局 | Post office | (Post office)
+店 | Shop | (Shop)
+家 | House | (House)
+村 | Village | (Village)
+町 | Town | (Town)
+島 | Island | (Island)
+海 | Ocean | (Ocean)
+川 | River | (River)
+森 | Forest | (Forest)
+
+### 6. Game Mechanics Dialogue (MEDIUM PRIORITY)
+# In-game activities and systems
+
+釣り | Fishing | (Fishing activity)
+虫取り | Bug catching | (Bug catching activity)
+化石掘り | Fossil digging | (Fossil digging activity)
+花植え | Flower planting | (Flower planting activity)
+木植え | Tree planting | (Tree planting activity)
+家具 | Furniture | (Furniture items)
+服 | Clothing | (Clothing items)
+道具 | Tool | (Tools and equipment)
+お金 | Money | (Currency)
+ベル | Bells | (Animal Crossing currency)
+ポイント | Points | (Game points)
+スコア | Score | (Game score)
+
+### 7. Time & Weather Dialogue (MEDIUM PRIORITY)
+# Environmental and temporal references
+
+朝 | Morning | (Morning time)
+昼 | Day | (Daytime)
+夜 | Night | (Night time)
+午前 | AM | (Morning hours)
+午後 | PM | (Afternoon hours)
+今日 | Today | (Today)
+明日 | Tomorrow | (Tomorrow)
+昨日 | Yesterday | (Yesterday)
+晴れ | Sunny | (Clear weather)
+雨 | Rain | (Rainy weather)
+雪 | Snow | (Snowy weather)
+曇り | Cloudy | (Cloudy weather)
+風 | Wind | (Windy weather)
+雷 | Thunder | (Thunderstorm)
+虹 | Rainbow | (Rainbow)
+夕日 | Sunset | (Sunset)
+
+## 🎯 TRANSLATION PROGRESS TRACKER
+
+### ✅ COMPLETED:
+- Phase 1: UI Text (12 terms)
+- Phase 2: Basic Dialogue (7 terms)
+
+### 🚧 IN PROGRESS:
+- Phase 3: Dialogue Translation (STARTING NOW!)
+
+### 📋 NEXT STEPS:
+1. Start with Section 1: Basic Greetings (HIGH PRIORITY)
+2. Move to Section 2: Character Interaction Verbs
+3. Continue with Sections 3-7 based on priority
+4. Test translations in context when possible
+
+## 📝 TRANSLATION GUIDELINES:
+- Use official Animal Crossing English terms when possible
+- Keep translations natural and friendly
+- Maintain the warm, casual tone of Animal Crossing
+- Consider context and character personality
+- Test translations in actual game dialogue when possible
+
+## 🎮 READY TO START TRANSLATING!
+# Begin with the HIGH PRIORITY sections above
+# Add your translations in the format: Japanese | English | Notes

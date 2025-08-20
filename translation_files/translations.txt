@@ -1,0 +1,9 @@
+# Translation Template for Doubutsu no Mori e+
+# Format: Original Japanese | English Translation | Notes
+
+# Common phrases
+こんにちは | Hello | Greeting
+さようなら | Goodbye | Farewell
+ありがとう | Thank you | Gratitude
+
+# Add more translations here...

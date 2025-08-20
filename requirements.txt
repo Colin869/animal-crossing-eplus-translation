@@ -1,0 +1,12 @@
+# Core dependencies for Animal Crossing e+ Translation Project
+# No external packages required - uses only Python standard library
+
+# Optional packages for enhanced functionality (uncomment if needed):
+# requests>=2.25.1
+# beautifulsoup4>=4.9.3
+# lxml>=4.6.3
+
+# Development dependencies (uncomment for development):
+# pytest>=6.2.5
+# black>=21.7b0
+# flake8>=3.9.2
